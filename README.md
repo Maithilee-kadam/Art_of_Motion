@@ -51,3 +51,4 @@ Art of Motion is a gesture-based human–computer interaction system that allows
 
 ## 👩‍💻 Author
 Maithilee Kadam
+
